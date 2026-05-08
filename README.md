@@ -32,7 +32,7 @@ Create a contact center that has the following functionality:
 4. Under Actions, select Import.
 5. Upload the ConnectBot.zip file.
 6. Click into the newly created bot and select Build.
-7. Publish the bot as ConnectBot.
+7. Publish the bot as ConnectBot.    ---This connectBot is giving error like "There was an error importing the bot. Make sure that the imported bot and contents of the zip file are correct, then try your request again."
 
 ### Launch a the serverless backend
 1.	Go to the CloudFormation service and launch a stack.
